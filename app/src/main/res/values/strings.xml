@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AsreZolur</string>
+    <string name="action_fav">علاقه مندی</string>
+    <string name="action_aboutus">درباره ما</string>
+    <string name="action_exit">خروج</string>
+
+    <string name="title_activity_main">عصر ظهور</string>
+    <string name="errorInLoadData">خطا در بارگذاری اطلاعات</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+
+</resources>
