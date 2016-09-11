@@ -17,8 +17,4 @@
         <item name="windowNoTitle">true</item>
     </style>
 
-    <style name="TextViewStyle">
-        <item name="android:textSize">@dimen/textView_font</item>
-    </style>
-
 </resources>

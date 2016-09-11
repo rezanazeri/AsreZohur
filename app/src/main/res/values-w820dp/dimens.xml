@@ -5,10 +5,5 @@
     <dimen name="activity_horizontal_margin">64dp</dimen>
     <dimen name="activity_vertical_margin">64dp</dimen>
     <dimen name="fab_margin">26dp</dimen>
-    <dimen name="textView_font">19sp</dimen>
-    <dimen name="cardView_height">75dp</dimen>
-    <dimen name="cardView_radius">30dp</dimen>
-    <dimen name="cardView_margin">12dp</dimen>
-    <dimen name="cardView_elevation">5dp</dimen>
-    <dimen name="cardView_padding">30dp</dimen>
+    <dimen name="otherAppIconSize">80dp</dimen>
 </resources>
